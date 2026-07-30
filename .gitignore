@@ -143,5 +143,10 @@ models/*.pkl
 # Mac Stuff
 .DS_Store
 
+# Local notes (not for GitHub)
+CLAUDE.md
+claude.md
+project_summary_and_timeline.md
+
 # vscode Stuff
 .vscode
